@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\thrishma\source\repos\assignment\assignment\source.cpp(18): warning C4101: 'i': unreferenced local variable
+  assignment.vcxproj -> C:\Users\thrishma\source\repos\assignment\x64\Debug\assignment.exe

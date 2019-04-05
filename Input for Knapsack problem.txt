@@ -1,0 +1,7 @@
+Knapscak Problem
+
+Inputs-
+C= 8; //the weight capacity of the knapscak
+N=3; // different item types present
+w =[3,8,5]; //the weight of each type of the item
+r=[4,6,5]; //the value associated with each type of the items

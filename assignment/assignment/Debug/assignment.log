@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\thrishma\source\repos\assignment\assignment\source.cpp(18): warning C4101: 'i': unreferenced local variable
+gurobi_c++mdd2017.lib(LinExpr.2017.omdd) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
